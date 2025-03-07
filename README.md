@@ -13,7 +13,7 @@ This project implements object detection using the YOLOv3 model with OpenCV. It 
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-repo/yolov3-object-detection.git](https://github.com/HoangLam2211/YOLOv3-Object-Detection-with-OpenCV/edit/main/README.md)
+git clone (https://github.com/HoangLam2211/YOLOv3-Object-Detection-with-OpenCV)
 cd yolov3-object-detection
 ```
 
@@ -85,3 +85,5 @@ This project is open-source under the MIT License.
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 - OpenCV for computer vision functions
 
+## Contact
+- vohoanglam2211@gmail.com
